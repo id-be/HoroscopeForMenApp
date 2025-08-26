@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/HoroscopeForMenApp/static/css/main.f3bcd634.css",
+    "main.js": "/HoroscopeForMenApp/static/js/main.d977082a.js",
+    "static/js/453.2525c61a.chunk.js": "/HoroscopeForMenApp/static/js/453.2525c61a.chunk.js",
+    "static/media/SignBlank.webp": "/HoroscopeForMenApp/static/media/SignBlank.ae16a45db457ca459f34.webp",
+    "static/media/TheGreatMeatball.png": "/HoroscopeForMenApp/static/media/TheGreatMeatball.cee9aa4096c9a46fc384.png",
+    "index.html": "/HoroscopeForMenApp/index.html",
+    "main.f3bcd634.css.map": "/HoroscopeForMenApp/static/css/main.f3bcd634.css.map",
+    "main.d977082a.js.map": "/HoroscopeForMenApp/static/js/main.d977082a.js.map",
+    "453.2525c61a.chunk.js.map": "/HoroscopeForMenApp/static/js/453.2525c61a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3bcd634.css",
+    "static/js/main.d977082a.js"
+  ]
+}
